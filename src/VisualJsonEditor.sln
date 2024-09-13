@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualJsonEditor", "VisualJsonEditor\VisualJsonEditor.csproj", "{CA84EB04-87DC-4287-A7FB-56A0C61C06BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualJsonEditor", "VisualJsonEditor\VisualJsonEditor.csproj", "{CA84EB04-87DC-4287-A7FB-56A0C61C06BA}"
 EndProject
 Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "VisualJsonEditor.Installer", "VisualJsonEditor.Installer\VisualJsonEditor.Installer.wixproj", "{16A1D263-97CA-421B-B03A-96BDEFE05F89}"
 EndProject
